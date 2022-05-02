@@ -1,0 +1,25 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "school project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KikiAquaFox/Crud-App.git"
+  },
+  "keywords": [
+    "crud",
+    "and",
+    "react"
+  ],
+  "author": "KikiAquaFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KikiAquaFox/Crud-App/issues"
+  },
+  "homepage": "https://github.com/KikiAquaFox/Crud-App#readme"
+}
